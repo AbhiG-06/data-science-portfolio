@@ -18,7 +18,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Data Analysis and Visualisation
  
 	- [Exploratory data analysis: Food Waste Depth analysis](https://github.com/AbhiG-06/data-science-portfolio/blob/main/auto-eda-food-waste-data.ipynb): Analyzing a dataset containing data on Food Waste. This dataset includes, by country, both household, retail, and food services estimates of food waste as well as other data points.
-	- [Auto Libraries: Applying auto libraries on datasets]: Automatically visualizing dataset
+	- [Auto Libraries: Applying auto libraries on datasets](https://github.com/AbhiG-06/data-science-portfolio/blob/main/auto-eda-using-pandas-profiling-sweetviz-autoviz.ipynb): Automatically visualizing dataset
 
   _Tools: Pandas, Seaborn, Autoviz, Pandas profiling and Matplotlib_ 
   
