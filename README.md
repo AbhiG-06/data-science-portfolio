@@ -10,7 +10,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-	- [Predicting Texas Government Salaries]: A model to predict Who are the outliers in the salaries? What roles make more than they would outside? What departments/roles have the biggest wage disparities between managers and employees? Have salaries and total compensations for some roles/departments/head-count changed over time utilizing machine learning.
+	- [Predicting Texas Government Salaries](https://github.com/AbhiG-06/data-science-portfolio/blob/main/Texas-salaries-prediction-r2-0-93.ipynb): A model to predict Who are the outliers in the salaries? What roles make more than they would outside? What departments/roles have the biggest wage disparities between managers and employees? Have salaries and total compensations for some roles/departments/head-count changed over time utilizing machine learning.
 	- [Supervised Learning: predict Multilabel Problem with H1N1 and seasonal flu vaccines](https://github.com/AbhiG-06/data-science-portfolio/blob/main/multi-label-vaccine-prediction.ipynb): Testing out several different supervised learning algorithms to build a predictive model for studying the future trends of vaccine for any particular diseases.
 
    _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy_
