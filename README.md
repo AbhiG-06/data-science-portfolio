@@ -21,7 +21,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    
         - [Exploratory data analysis: Food Waste Depth analysis](https://github.com/AbhiG-06/data-science-portfolio/blob/main/food-waste-depth-analysis.ipynb): Analyzing a dataset containing data on Food Waste. This dataset includes, by country, both household, retail, and food services estimates of food waste as well as other data points.
   
-        - [Exploratory data analysis: States-daily-power-generation-forecast](): India is the third-largest producer and second-largest consumer of electricity world wide, with an installed capacity of 403 GW as of June 2022. Analyzing the dataset and applying EDA.
+        - [Exploratory data analysis: States-daily-power-generation-forecast](https://github.com/AbhiG-06/data-science-portfolio/blob/main/States-daily-power-generation-forecast.ipynb): India is the third-largest producer and second-largest consumer of electricity world wide, with an installed capacity of 403 GW as of June 2022. Analyzing the dataset and applying EDA.
           
 	- [Auto Libraries: Applying auto libraries on datasets](https://github.com/AbhiG-06/data-science-portfolio/blob/main/auto-eda-using-pandas-profiling-sweetviz-autoviz.ipynb): Automatically visualizing dataset.
 
@@ -30,7 +30,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Natural Language Processing
 
 	- [Natural Language processing: Fake and real news using NLTK](https://github.com/AbhiG-06/data-science-portfolio/blob/main/fake-real-news-prediction.ipynb):  Classifying the news using NLTK and naive bayes algorithm to determine if an article is fake news or not.
-   
+     
         - [Natural Language processing: News classification using NLTK](https://github.com/AbhiG-06/data-science-portfolio/blob/main/news-classification-2023%20.ipynb):Classifying the news using NLTK and word clouds.
 
 	_Tools: NLTK, scikit_ 
