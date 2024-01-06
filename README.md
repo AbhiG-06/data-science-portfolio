@@ -28,6 +28,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Natural Language Processing
 
 	- [Natural Language processing: Fake and real news using NLTK](https://github.com/AbhiG-06/data-science-portfolio/blob/main/fake-real-news-prediction.ipynb):  Classifying the news using NLTK and naive bayes algorithm to determine if an article is fake news or not.
-        - [Natural Language processing: News classification using NLTK]():Classifying the news using NLTK and word clouds.
+        - [Natural Language processing: News classification using NLTK](https://github.com/AbhiG-06/data-science-portfolio/blob/main/news-classification-2023%20.ipynb):Classifying the news using NLTK and word clouds.
 
 	_Tools: NLTK, scikit_ 
